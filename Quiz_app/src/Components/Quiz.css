@@ -1,0 +1,97 @@
+*{
+margin: 0;
+padding: 0;
+  font-family: cursive;
+}
+
+body{
+   background-image: linear-gradient(#D8C7FF,#19006C);
+  color: #fff;;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+}
+
+.container{
+height: 60%;
+  /* background-color: #3c3a3f; */
+  background-image: linear-gradient(#7492ed,#1139a6,#0f0827);
+  box-sizing: border-box;
+  border-radius: 20px;
+  padding: 40px;
+}
+.container h1{
+  display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 20px;
+}
+hr{
+border :.5px solid rgb(119, 120, 151); 
+}
+.container h2{
+  padding: 10px;
+  margin-bottom: 20px;
+}
+ul{
+padding: 10px;
+
+  
+}
+li{
+ background-color: #FFF;
+  margin: 10px;
+  padding: 5px 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  color: #222;
+  cursor: pointer;
+}
+
+li:hover{
+scale: 1.02;
+}
+
+.next{
+  display: flex;
+  float: right;
+  padding: 7px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 700;
+
+}
+button:hover{
+
+  scale: 1.2;
+}
+
+
+.Correct{
+  background-color: #dffff2;
+
+  border-color: #00d397;
+}
+.Wrong{
+  background-color: #ecbfbf;
+   border-color: #FF4A4A;
+}
+.reset_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.reset{
+    padding: 7px 20px;
+  border-radius: 10px;
+
+     border: none;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 20px;
+  
+}
