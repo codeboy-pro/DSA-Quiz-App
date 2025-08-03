@@ -41,7 +41,7 @@ A simple and interactive **Data Structures and Algorithms (DSA)** quiz applicati
 1. Clone this repository:
 
 bash
-git clone https://github.com/yourusername/dsa-quiz-app.git
+git clone [https://github.com/codeboy-pro/DSA-Quiz-App]
 cd dsa-quiz-app
 
 ---
@@ -53,17 +53,8 @@ cd dsa-quiz-app
 - ⚙️ JavaScript (ES6)  
 - 💾 JSON (for question bank)
 
----
-
-## 🧩 How to Use Locally
-
-1. Clone this repository:
 
 
-git clone https://github.com/yourusername/dsa-quiz-app.git
-cd dsa-quiz-app
-
----
 
 ## 🛠️ Technologies Used
 -React
@@ -72,21 +63,5 @@ cd dsa-quiz-app
 - ⚙️ JavaScript (ES6)  
 - 💾 JSON (for question bank)
 
----
 
-## 🧩 How to Use Locally
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/dsa-quiz-app.git
-cd dsa-quiz-app
-
----
-
-✅ **To finish**: Replace  
-- `https://your-netlify-link.netlify.app` with your real Netlify URL  
-- `yourusername` with your GitHub username  
-
-Would you like this saved into a `.md` file for download?
 
